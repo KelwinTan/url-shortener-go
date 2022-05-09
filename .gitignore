@@ -1,0 +1,4 @@
+# External packages folder
+vendor/
+.env
+bin/
